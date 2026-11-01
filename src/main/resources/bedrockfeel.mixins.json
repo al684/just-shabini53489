@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.bedrockfeel.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "PlayerModelMixin",
+    "ElytraModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
